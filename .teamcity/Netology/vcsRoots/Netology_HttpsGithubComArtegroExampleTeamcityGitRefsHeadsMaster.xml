@@ -6,7 +6,7 @@
   <param name="authMethod" value="PASSWORD" />
   <param name="branch" value="refs/heads/master" />
   <param name="ignoreKnownHosts" value="true" />
-  <param name="secure:password" value="zxx6a4ff6aa5d094cabe4f8f3f5fd5d4037b456f7b1b5fca7254586ea746630b93fa7cb6fb264749d9e775d03cbe80d301b" />
+  <param name="secure:password" value="credentialsJSON:0da92c9d-f3f1-4a99-b97f-76f569415702" />
   <param name="submoduleCheckout" value="CHECKOUT" />
   <param name="teamcity:branchSpec" value="refs/heads/*" />
   <param name="url" value="https://github.com/Artegro/example-teamcity.git" />
