@@ -3,9 +3,6 @@
   <name>Build</name>
   <description />
   <settings>
-    <options>
-      <option name="artifactRules" value="*.jar" />
-    </options>
     <parameters />
     <build-runners>
       <runner id="Maven_Test" name="Maven_Test" type="Maven2">
